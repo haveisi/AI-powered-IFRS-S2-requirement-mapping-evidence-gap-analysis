@@ -8,9 +8,9 @@ I developed the workflow using publicly available TJX sustainability and climate
 
 Although this project uses IFRS S2 as the case, the underlying workflow is broader than disclosure mapping. It demonstrates how I approach sustainability data and reporting problems:
 
-**Source validation**: trace conclusions back to underlying public evidence rather than relying on model-generated summaries.
-**Data quality and evidence controls**: use deterministic validation, structured schemas, and human review to reduce unsupported or inconsistent outputs.
-**Gap analysis**: distinguish between available data, partially supported evidence, and information that is still missing.
+**Source validation**: trace conclusions back to underlying public evidence rather than relying on model-generated summaries.   
+**Data quality and evidence controls**: use deterministic validation, structured schemas, and human review to reduce unsupported or inconsistent outputs.   
+**Gap analysis**: distinguish between available data, partially supported evidence, and information that is still missing.  
 **Decision-ready reporting**: convert reviewed evidence into requirement summaries, priority gaps, action plans, and Power BI-ready datasets.   
 **Human-in-the-loop AI**: use AI to accelerate retrieval and analysis while keeping final validation and interpretation with the analyst.
 
